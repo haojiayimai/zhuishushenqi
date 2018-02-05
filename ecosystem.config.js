@@ -28,7 +28,7 @@ module.exports = {
       host : "23.83.230.144",
 	  port : "29571",
       ref  : "origin/master",
-      repo : "https://github.com/xiadd/zhuishushenqi.git",
+      repo : "https://github.com/haojiayimai/zhuishushenqi.git",
       path : "/root",
       "post-setup": "ls -la",
       "post-deploy" : "npm install && npm run build && npm run start:prod",
