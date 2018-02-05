@@ -26,6 +26,7 @@ module.exports = {
     production : {
       user : "root",
       host : "23.83.230.144",
+	  port : "29571",
       ref  : "origin/master",
       repo : "https://github.com/xiadd/zhuishushenqi.git",
       path : "/root",
