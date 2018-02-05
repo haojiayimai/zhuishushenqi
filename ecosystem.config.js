@@ -25,7 +25,7 @@ module.exports = {
   deploy : {
     production : {
       user : "root",
-      host : "45.76.50.147",
+      host : "23.83.230.144",
       ref  : "origin/master",
       repo : "https://github.com/xiadd/zhuishushenqi.git",
       path : "/root",
